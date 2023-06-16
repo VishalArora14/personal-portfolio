@@ -20,7 +20,7 @@ export default function About() {
           </div>
           <p className="text-WhiteGray text-sm mt-8 leading-7">
             {" "}
-            I'm FullStack Web Developer skilled in the ME(React/Next)N stack and I possess
+            I am FullStack Web Developer skilled in the ME(React/Next)N stack and I possess
             advanced proficiency in C++ programming. I have a strong foundation
             in RESTful APIs and object-oriented programming.
           </p>
